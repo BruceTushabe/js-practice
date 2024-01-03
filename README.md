@@ -1,2 +1,3 @@
-# js-practice
-For Practicing Javascript
+
+Just For Practicing Javascript
+
