@@ -17,8 +17,13 @@ function addItem(name, quantity, price){
 // Function to display the current inventory
 
 function displayInventory(){
+    console.log("-----------")
     console.log("Inventory:");
     console.log("----------");
+
+    inventory.forEach( item => {
+        console.log(`${item.name} ${item.quantity} ${item.price}`);
+    })
 
 }
 
