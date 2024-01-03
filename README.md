@@ -1,3 +1,2 @@
-
 Just For Practicing Javascript
 
